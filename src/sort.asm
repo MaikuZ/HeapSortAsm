@@ -1,3 +1,7 @@
+; Implemented by MaikuZ
+; Licensed under: CC-BY-4.0
+; HeapSort in assembly
+; entry point is void sort(long * data, unsigned long size);
 BITS        64
 SECTION     .text
 GLOBAL      sort
